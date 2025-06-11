@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com base no curso de **JavaScript** do [Curso em V
 
 - **HTML5** – Estrutura semântica da aplicação
 - **CSS3** – Estilização da interface
-- **JavaScript (ES6)** – Lógica de programação e manipulação do DOM
+- **JavaScript** – Lógica de programação e manipulação do DOM
 
 ---
 
